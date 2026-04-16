@@ -52,4 +52,3 @@ modificar 3 amigos es facil pero ¿ que pasa si tienes una base de datos con 1.0
 
 ![alt text](download-1.png)
 
-##
